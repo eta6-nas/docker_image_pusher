@@ -1,2 +1,2 @@
-WebDav-aliyundriver:latest
+ghostry/webdav-aliyundriver:latest
 
