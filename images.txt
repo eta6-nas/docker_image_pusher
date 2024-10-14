@@ -1,2 +1,2 @@
-ghostry/webdav-aliyundriver:latest
+whyour/qinglong:latest
 
