@@ -1,2 +1,5 @@
-whyour/qinglong:latest
+linuxserver/calibre:latest
+jeessy/ddns-go:latest
+johngong/calibre-web:latest
+hectorqin/reader:latest
 
