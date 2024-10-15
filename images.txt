@@ -1,5 +1,8 @@
-linuxserver/calibre:latest
-jeessy/ddns-go:latest
-johngong/calibre-web:latest
-hectorqin/reader:latest
+logimethods/compose:latest
+monlor/xiaoya:latest
+sulinggg/openwrt:latest
+benton/ubentu:latest
+btpanel/baota:latest
+jitesoft/debian:latest
+portainer/portainer:latest
 
