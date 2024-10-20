@@ -1,3 +1,3 @@
-funkwhale/all-in-one:latest
+linux
 
 
