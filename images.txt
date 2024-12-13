@@ -1,1 +1,8 @@
-haroldli/xiaoya-tvbox
+linuxserver/syncthing
+jeessy/ddns-go
+dyg666/lucky
+p3terx/ariang
+zx5253/webdav-aliyundriver
+hectorqin/reader
+yisier1/nps
+xhofe/alist
