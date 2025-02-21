@@ -1,1 +1,3 @@
-tailscale/tailscale
+hslr/sun-panel:latest
+portainer/portainer-ce:latest
+deluan/navidrome:latest
